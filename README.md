@@ -1,5 +1,6 @@
 # SimplePhysicsEngine
-For an online demo, go to: https://twofigo.github.io/SimplePhysicsEngine/source/
+For an online demo, go to: 
+https://threemagpiesarguingsemantics.github.io/SimplePhysicsEngine/source/
 
 I wrote this simple 2D convex rigid body physics engine because the algorithms were fascinating. It's been implemented entirely in pure JavaScript+ HTML+ CSS over two summers.
 
